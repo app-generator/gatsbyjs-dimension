@@ -1,7 +1,12 @@
-## JAMStack [GatsbyJS Dimension](https://jamstack-gatsbyjs-dimension.appseed.us)
-Originaly coded by **CodeBushy**, Enhanced by [AppSeed](https://appseed.us) 
+# [GatsbyJS Dimension](https://appseed.us/apps/gatsbyjs/html5up-dimension)
 
-![GatsbyJS Dimension](https://github.com/app-generator/gatsbyjs-dimension/blob/master/screenshots/gatsbyjs-dimension.jpg)
+GatsbyJS Dimension is an open-source app built with GatsbyJS on top of HTML5Up Dimension design.
+
+<br />
+
+![GatsbyJS Dimension - Gif animated presentation.](https://github.com/app-generator/static/blob/master/products/gatsbyjs-apps-intro.gif?raw=true)
+
+<br />
 
 ## How to use it
 - Clone this repo `git clone https://github.com/app-generator/gatsbyjs-dimension.git`
@@ -11,5 +16,20 @@ Originaly coded by **CodeBushy**, Enhanced by [AppSeed](https://appseed.us)
 - `yarn build` - build for production in directory `_site`
 - `yarn deploy` - build & LIVE deploy `Info: edit FTP credentials in deploy.js `
 
+<br />
+
+## Support
+
+For Support please access the [Support](https://appseed.us/support) provided by **AppSeed** 
+
+<br />
+
+## Resources
+ 
+ - [GatsbyJS](https://www.gatsbyjs.org/)
+ - More [GatsbyJS starters](https://github.com/app-generator/gatsbyjs)
+
+<br />
+
 ---
-Made with ♥ by [AppSeed](https://appseed.us?ref=github)
+Provided by [AppSeed](https://appseed.us/apps/gatsbyjs)
