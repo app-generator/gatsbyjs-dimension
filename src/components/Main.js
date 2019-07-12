@@ -29,8 +29,8 @@ class Main extends React.Component {
           <span className="image main">
             <img src={pic02} alt="AppSeed App Generator for Vue and React." /></span>
           
-          <p>AppSeed is a FullStack web <a href="https://appseed.us">app generator</a> that allows you to choose a visual theme and apply it on a full, but flexible, technology stack in just a few minutes, greatly improving development time from visual design to application deployment.</p>
-          <p>Read more about this cutting edge <a href="https://appseed.us">app generator</a> on the official <a href="https://blog.appseed.us">blog</a>.</p>
+          <p>AppSeed is a FullStack web <a href="https://appseed.us/app-generator">app generator</a> that allows you to choose a visual theme and apply it on a full, but flexible, technology stack in just a few minutes, greatly improving development time from visual design to application deployment.</p>
+          <p>Read more about this cutting edge <a href="https://appseed.us/app-generator">app generator</a> on the official <a href="https://blog.appseed.us">blog</a>.</p>
           {close}
         </article>
 
@@ -41,8 +41,7 @@ class Main extends React.Component {
             <img src={pic02} alt="AppSeed App Generator for Vue and React." /></span>
           
           <p>Demo: this Web App
-            <br />Sources and more info <a href="https://appseed.us/apps/react/gatsbyjs/dimension">here</a>
-            <br />Support via <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/fZC6hup">Discord</a>
+            <br />Sources and more info <a href="https://appseed.us/apps/gatsbyjs/html5up-dimension">here</a>
           </p>
           {close}
         </article>
@@ -51,8 +50,7 @@ class Main extends React.Component {
           <h2 className="major">Support</h2>
 
           <p>
-            <br />24/7 Email support: <a href="mailto:support@appseed.us">support@appseed.us</a>
-            <br />LIVE Support via <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/fZC6hup">Discord</a>
+            <br />For support please access <a href="https://appseed.us/support">this</a>{' '}page
           </p>
 
           <ul className="icons">
