@@ -33,4 +33,4 @@ For Support please access the [Support](https://appseed.us/support) provided by 
 <br />
 
 ---
-Provided by [AppSeed](https://appseed.us/apps/gatsbyjs)
+[GatsbyJS Dimension](https://appseed.us/apps/gatsbyjs/html5up-dimension) provided by AppSeed
