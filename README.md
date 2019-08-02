@@ -28,7 +28,7 @@ For Support please access the [Support](https://appseed.us/support) provided by 
 ## Resources
  
  - [GatsbyJS](https://www.gatsbyjs.org/)
- - More [GatsbyJS starters](https://github.com/app-generator/gatsbyjs)
+ - More [GatsbyJS Apps](https://appseed.us/apps/gatsbyjs)
 
 <br />
 
