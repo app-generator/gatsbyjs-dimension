@@ -1,6 +1,7 @@
 # [GatsbyJS Dimension](https://appseed.us/apps/gatsbyjs/html5up-dimension)
 
-GatsbyJS Dimension is an open-source app built with GatsbyJS on top of HTML5Up Dimension design.
+GatsbyJS Dimension is an open-source app built with GatsbyJS on top of HTML5Up Dimension design. 
+Project forked from [this](https://github.com/codebushi/gatsby-starter-dimension-codebushi) project.
 
 <br />
 
@@ -13,7 +14,7 @@ GatsbyJS Dimension is an open-source app built with GatsbyJS on top of HTML5Up D
 - change directory to `gatsbyjs-dimension`
 - `yarn` - install deps
 - `yarn dev` - live edit
-- `yarn build` - build for production in directory `_site`
+- `yarn build` - build for production
 - `yarn deploy` - build & LIVE deploy `Info: edit FTP credentials in deploy.js `
 
 <br />
