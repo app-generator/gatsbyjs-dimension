@@ -1,7 +1,8 @@
 # [GatsbyJS Dimension](https://appseed.us/apps/gatsbyjs/html5up-dimension)
 
 GatsbyJS Dimension is an open-source app built with GatsbyJS on top of HTML5Up Dimension design. 
-Project forked from [this](https://github.com/codebushi/gatsby-starter-dimension-codebushi) project.
+
+> Originally coded by **[Codebushi](https://github.com/codebushi)**.
 
 <br />
 
